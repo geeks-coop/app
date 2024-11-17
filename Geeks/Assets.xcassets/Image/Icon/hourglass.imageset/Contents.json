@@ -1,6 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
+      "filename" : "hourglass logo.svg",
       "idiom" : "universal"
     }
   ],
